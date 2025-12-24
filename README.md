@@ -42,8 +42,12 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeganeh-esfandi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeganeh-esfandi&layout=compact" />
+<img src="/assets/stats.svg
+/assets/langs.svg
+" />
+<img src="/assets/stats.svg
+/assets/langs.svg
+" />
 
 
 </div>
