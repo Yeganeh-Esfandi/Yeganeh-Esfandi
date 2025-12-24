@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/"/>+I'm+Yeganeh;Frontend+Developer;CS+Student+%7C+Creative+Coder" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=22C55E&center=true&vCenter=true&width=500&lines=Hi+I'm+Yeganeh;Frontend+Developer;CS+Student+%7C+Creative+Coder" />
+<img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/"/>
 </div>
 
 ---
