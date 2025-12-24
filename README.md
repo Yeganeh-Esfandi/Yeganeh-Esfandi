@@ -20,10 +20,10 @@
 ### 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/yeganeh-esfandi-3a6b22365/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/yegy.es">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
 
@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yeganeh-esfandi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yeganeh-esfandi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeganeh-esfandi&layout=compact" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeganeh-esfandi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
