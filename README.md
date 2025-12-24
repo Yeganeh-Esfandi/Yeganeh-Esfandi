@@ -42,9 +42,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="/assets/stats.svg
-/assets/langs.svg
-" />
+<img src="https://www.flaticon.com/free-icon/working_5654581?term=computer&page=4&position=26&origin=search&related_id=5654581" />
 <img src="/assets/stats.svg
 /assets/langs.svg
 " />
